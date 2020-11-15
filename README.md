@@ -1,6 +1,6 @@
 # miwok-app
-Miwok is an Android application created while learning from the **Android Basics: Multiscreen Apps** course, by Udacity. Multiple important concepts were understood and 
-implemented as a result of this project, someof which include: 
+Miwok is an Android application created while learning from the **Android Basics: Multiscreen Apps** course, by **Udacity**. Multiple important concepts were understood and 
+implemented as a result of this project, some of which include: 
 <br>
 1. Intents and Activities
 2. Activity Lifecycle
